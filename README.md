@@ -7,7 +7,7 @@ This repository is coursework/prototyping code. It is not a medical device and s
 ## Repository Layout
 
 ```text
-mcu_final/
+mcu_driver_monitor/
 |- pic.X/                 MPLAB X + XC8 firmware for the PIC18F4520
 |- esp32/                 PlatformIO project for the ESP32 HTTP bridge
 |- Safe_driver_monitor/   PyQt6 desktop monitor and data processing
