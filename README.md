@@ -1,4 +1,4 @@
-# MCU Final
+# MCU Driver Monitor
 
 Embedded monitoring prototype built around a `PIC18F4520`, `MAX30102`, `MQ-3`, and an `ESP32` bridge. The PIC samples pulse and alcohol-sensor data, the ESP32 exposes the latest values over HTTP, and the desktop app visualizes the stream.
 
